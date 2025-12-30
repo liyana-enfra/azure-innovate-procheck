@@ -1,0 +1,6 @@
+
+{
+  "name": "Azure Innovate ProCheck",
+  "description": "An automated daily health checklist platform for Azure Managed Service Providers, replacing manual SOPs with secure, read-only multi-tenant monitoring and reporting.",
+  "requestFramePermissions": []
+}
